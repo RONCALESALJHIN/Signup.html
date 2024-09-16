@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    justify-content: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align: center;
+    padding:  100px;
+    background-image: linear-gradient(to bottom right, rgb(178, 111, 199), rgb(95, 139, 235));
+  }
+  .form{
+    justify-content: center;
+    width:420px;
+    height:500px;
+    border-radius: 10px;
+    border-style: groove;
+  }
+  h1{
+    color:#f7f1f1;
+  }
+  ::placeholder{
+    color:#fff;
+    font-size: 15px;
+  }
+  .Email-input{
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .Email{
+    justify-content: center;
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(255,255,255,0.2);
+    color:#ffff;
+  }
+  .Password{
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .password{
+    padding: 6px 40px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(255,255,255,0.2);
+    color:#ffff;
+  }
+  .Cpassword{
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+.cpassword{
+   padding: 6px 40px;
+   border: none;
+   border-radius: 50px;
+   background: rgb(255,255,255,0.2);
+   color:#ffff;
+}
+  .btn-box{
+    justify-content: center;
+  }
+  .btn{
+     padding: 8px 50px;
+     border: none;
+     border-radius: 50px;
+     background: rgb(255,255,255,0.2);
+     color:#ffff;
+  }
+  .cancelbtn{
+     padding: 8px 50px;
+     border: none;
+     border-radius: 50px;
+     background: rgb(255,255,255,0.2);
+     color:#ffff;
+  }
